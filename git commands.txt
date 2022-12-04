@@ -1,0 +1,11 @@
+git pull
+git merge 
+
+git push 
+
+git add FILE_NAME_1 FILE_NAME_N
+git commit -m
+
+git merge <REMOTE> <BRANCH_NAME>
+git merge origin main
+
