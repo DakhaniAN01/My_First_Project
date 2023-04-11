@@ -3,6 +3,6 @@ class Scratch {
         System.out.println("Hello Adnan");
 System.out.println("Hello Adnan");
 System.out.println("Hello Adnan");
-System.out.println("Hello Adnan");
+System.out.println("Hello Dakhani");
     }
 }
